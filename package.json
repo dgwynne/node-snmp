@@ -1,0 +1,20 @@
+{
+  "author": "David Gwynne <david@gwynne.id.au>",
+  "name": "snmp",
+  "description": "SNMP APIs",
+  "version": "0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dgwynne/node-snmp.git"
+  },
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": ">=0.4"
+  },
+  "dependencies": {
+    "asn1": "0.1.10"
+  }
+}
