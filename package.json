@@ -2,7 +2,7 @@
   "author": "David Gwynne <david@gwynne.id.au>",
   "name": "snmp",
   "description": "SNMP APIs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/dgwynne/node-snmp.git"
@@ -15,7 +15,7 @@
     "node": ">=0.4"
   },
   "dependencies": {
-    "asn1": "0.1.10",
+    "asn1": "0.1.11",
     "bigdecimal": "0.6.1"
   }
 }
