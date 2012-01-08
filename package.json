@@ -2,7 +2,7 @@
   "author": "David Gwynne <david@gwynne.id.au>",
   "name": "snmp",
   "description": "SNMP APIs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/dgwynne/node-snmp.git"
