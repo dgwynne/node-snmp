@@ -5,14 +5,14 @@
   "version": "0.0.2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dgwynne/node-snmp.git"
+    "url": "git://github.com/jeremyc/node-snmp.git"
   },
   "main": "lib/index.js",
   "directories": {
     "lib": "./lib"
   },
   "engines": {
-    "node": ">=0.4"
+    "node": ">=0.6"
   },
   "dependencies": {
     "asn1": "0.1.11",
